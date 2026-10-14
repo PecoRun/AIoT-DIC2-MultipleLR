@@ -16,10 +16,11 @@
 
 ## 🌐 線上展示與互動式網頁應用
 
-🐙 **GitHub Repository**：**[https://github.com/huanchen1107/AIoT-DIC2-MultipleLR](https://github.com/huanchen1107/AIoT-DIC2-MultipleLR)**  
-🔗 **Live Demo**：**[https://huanchen1107.github.io/AIoT-DIC2-MultipleLR/](https://huanchen1107.github.io/AIoT-DIC2-MultipleLR/)**
+🐙 **GitHub Repository**：**[https://github.com/PecoRun/AIoT-DIC2-MultipleLR](https://github.com/PecoRun/AIoT-DIC2-MultipleLR)**  
+🔗 **Live Demo**：**[https://pecorun.github.io/AIoT-DIC2-MultipleLR/](https://pecorun.github.io/AIoT-DIC2-MultipleLR/)**
 
-![50 Startups 互動式迴歸與特徵選擇探索器](dashboard_demo.png)
+![alt text](image.png)
+![alt text](image-1.png)
 
 網頁版面風格參考 [StatsUnlock](https://statsunlock.com/multiple-linear-regression-calculator/) 的專業 SaaS 統計計算器。
 
@@ -158,7 +159,7 @@ python boston_analysis.py
 ## ☁️ 部署
 
 ### 1. GitHub Pages（啟用中）
-🔗 **[https://huanchen1107.github.io/AIoT-DIC2-MultipleLR/](https://huanchen1107.github.io/AIoT-DIC2-MultipleLR/)**  
+🔗 **[https://pecorun.github.io/AIoT-DIC2-MultipleLR/](https://pecorun.github.io/AIoT-DIC2-MultipleLR/)**  
 透過 `.github/workflows/pages.yml` 自動部署。
 
 ### 2. Vercel
